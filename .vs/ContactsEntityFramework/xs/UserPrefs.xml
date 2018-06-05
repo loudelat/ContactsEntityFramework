@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{523BD7C3-9F23-41FF-B523-980A50BD728F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsEntityFramework.csproj">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Models/Contact.cs" Line="22" Column="1" />
+      <File FileName="ContactsEntityFramework.csproj" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

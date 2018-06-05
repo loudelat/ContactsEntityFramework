@@ -1,0 +1,11 @@
+/Users/loudelat/Projects/ContactsEntityFramework/bin/Debug/netcoreapp2.0/ContactsEntityFramework.deps.json
+/Users/loudelat/Projects/ContactsEntityFramework/bin/Debug/netcoreapp2.0/ContactsEntityFramework.runtimeconfig.json
+/Users/loudelat/Projects/ContactsEntityFramework/bin/Debug/netcoreapp2.0/ContactsEntityFramework.runtimeconfig.dev.json
+/Users/loudelat/Projects/ContactsEntityFramework/bin/Debug/netcoreapp2.0/ContactsEntityFramework.dll
+/Users/loudelat/Projects/ContactsEntityFramework/bin/Debug/netcoreapp2.0/ContactsEntityFramework.pdb
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.csprojResolveAssemblyReference.cache
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.csproj.CoreCompileInputs.cache
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.AssemblyInfoInputs.cache
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.AssemblyInfo.cs
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.dll
+/Users/loudelat/Projects/ContactsEntityFramework/obj/Debug/netcoreapp2.0/ContactsEntityFramework.pdb
